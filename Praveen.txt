@@ -2,3 +2,9 @@ Program to print a pattern
           *
         * * *
           *
+
+
+print("    *")
+print("  * * *")
+print("    *")
+
